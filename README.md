@@ -1,5 +1,5 @@
 # All-songs-of-your-favorite-artist
-Instruction:
+Instructions:
 
 Sign up for a Genius account:
 Go to the Genius website and create a free account if you don't have one already.
