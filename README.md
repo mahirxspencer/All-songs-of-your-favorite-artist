@@ -11,8 +11,8 @@ Navigate to https://genius.com/api-clients
 Create a new API client:
 Click on the "New API Client" button.
 Fill out the required information:
-App Name (e.g., "Song Lyrics Project")
-App Website URL (you can use a placeholder if needed).
+App Name and
+App Website URL (you can use a placeholder if needed, e.g. https://example.com).
 
 Generate the access token:
 After saving your new API client, you'll see a "Client ID" and "Client Secret".
