@@ -24,3 +24,5 @@ Keep it confidential and don't share it publicly.
 
 Use the access token in your API requests:
 Include the token in the Authorization header of your API requests. (Line 6 of the code!)
+
+After you download the python script and include the token, run the script and write the artist's name when prompted. For best results visit the artist's genius page and copy paste the name right below their profile picture.
